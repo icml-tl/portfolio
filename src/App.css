@@ -1,8 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 /* App.css */
-.text-char {
-    position: absolute;
-    left: 50%;
-    font-size: 1.2em;
-    transform-origin: 0 100px; /* Adjust this value to position the text correctly */
-  }
-  
+
+
